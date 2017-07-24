@@ -1,0 +1,6 @@
+AJ_ML_Library/
+data/
+ensemble/
+submission/
+*.csv
+*.out
